@@ -441,6 +441,18 @@ p.card-text{
     background: #198754 !important;
 } 
 
+
+
+//gambar
+.cover {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+
+
 /* akhir project */
 
 
