@@ -12,6 +12,12 @@ $(document).ready(function () {
         }
     });
 
+    // //stop modal youtube
+    // $('.btn-close').click(function () {
+    //     // $('#youtube-video').empty();
+        // location.reload();
+    // });
+
 
     //slide-up script
     $('.scrool-up-btn').click(function () {
